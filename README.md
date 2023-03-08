@@ -1,3 +1,3 @@
 # Configs
 
-Albi's server configs
+Our Ansible configs.
