@@ -12,7 +12,7 @@ game = "DEFAULT"
 
 status = ONLINE
 
-songinstatus=false
+songinstatus=true
 
 altprefix = "NONE"
 
@@ -34,7 +34,7 @@ alonetimeuntilstop = 0
 
 playlistsfolder = "Playlists"
 
-updatealerts=true
+updatealerts=false
 
 lyrics.default = "A-Z Lyrics"
 
