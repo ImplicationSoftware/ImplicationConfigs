@@ -1,6 +1,0 @@
-[Unit]
-Description=JMusic
-
-[Service]
-WorkingDirectory=/discord/bot
-ExecStart=/usr/bin/java -jar /discord/bot/JMusicBot.jar
