@@ -1,6 +1,0 @@
-[Unit]
-Description=Minecraft
-
-[Service]
-WorkingDirectory=/minecraft
-ExecStart=changeme
